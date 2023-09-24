@@ -7,44 +7,46 @@ Below is a description of how to use Python containers in Portainer. This is hel
 - Username: admin
 - Password: bluesky77
 
-![IMG_0400](https://github.com/blueskysolarracing/software-notes/assets/27718254/44a790eb-575b-4800-a6f6-f87c537af3f7)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/c3e7e38f-e1bb-469d-8bdf-0c49bc744aae)
 
 **Click primary environment and view all containers.**
 
-![IMG_0401](https://github.com/blueskysolarracing/software-notes/assets/27718254/b1716c62-c92f-4e30-a3e6-c80baca6f75b)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/4d05ebeb-26d7-4ded-beb1-d57cefe59431)
 
-![IMG_0403](https://github.com/blueskysolarracing/software-notes/assets/27718254/196d3005-60f0-4834-a5c7-bd5dfa33d3ff)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/2a7d4c94-c5da-4503-927f-352f72ad3dbc)
 
 **Create container.**
 
-![IMG_0404](https://github.com/blueskysolarracing/software-notes/assets/27718254/e97c1e2a-3e83-4682-b7ba-4d983b9370a0)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/264144a7-62ee-4aa7-befd-9c76a22cc218)
 
-![IMG_0405](https://github.com/blueskysolarracing/software-notes/assets/27718254/4bf86c19-6427-4172-9771-de57c7a8f407)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/29fd6390-c257-4498-b583-3e0a99cd5ba8)
 
-![IMG_0406](https://github.com/blueskysolarracing/software-notes/assets/27718254/2da3e15f-a506-4be8-8773-4aef5d443104)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/cbd34e62-be6a-48bf-bba3-b0170fa72da1)
 
-![IMG_0407](https://github.com/blueskysolarracing/software-notes/assets/27718254/e7276438-9c2a-4f3a-9873-a8e534d151af)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/effd8d2c-75d3-4f83-a359-41103d37d656)
 
 **Deploy.**
 
-![IMG_0409](https://github.com/blueskysolarracing/software-notes/assets/27718254/db543649-369b-4443-861d-c1fe94dc0ea1)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/2ca2c9fd-6770-4896-8b93-ab9fefb766dc)
 
-![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/9b384037-8ba8-4669-a8d5-6da7c894953e)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/88a915b8-c353-4917-8d62-2f1c44c277af)
 
 **Go to console of the new container.**
 
-![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/e66c73ed-256a-4a27-9778-575c50464deb)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/6bc94423-936e-4bbd-8080-e99e0dc90237)
 
-![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/0f8efb63-039e-4253-ae15-170a1060ad6d)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/94f692a3-534e-4eb7-8dd3-948af09149fc)
 
-![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/6ed985c2-5503-4516-83c7-9de8d008ccd5)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/be3ba2fd-3399-4484-bc9d-178c1ece6cae)
+
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/f3aa02ef-d1fb-43a5-b32c-c23fc730a319)
 
 **Setup environment.**
 
 Here, we will show an example using ADC78H89 driver.
 
-![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/10419b99-c748-4897-898d-751d9a3a5361)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/b4c44168-6fa8-4e6a-9392-e70763d6e6e7)
 
-![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/d722987a-703c-4945-8983-3bd568579912)
+![image](https://github.com/blueskysolarracing/software-notes/assets/27718254/c41083a7-1e78-4bff-a2a2-490510010541)
 
 You can test other things using the above steps.
