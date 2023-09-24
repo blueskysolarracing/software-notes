@@ -4,7 +4,7 @@ Below is a description of how to deploy blinky within Portainer. This is helpful
 
 **Follow steps on portainer-python**
 
-Follow steps on ![Python & Portainer Guide](portainer-python.md) until ``Setup Environment``.
+Follow steps on [Python & Portainer Guide](portainer-python.md) until ``Setup Environment``.
 
 **Setup environment.**
 
