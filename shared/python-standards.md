@@ -6,8 +6,9 @@
 4. Documentations must be deployed using [Sphinx](https://www.sphinx-doc.org/en/master/index.html) via [ReadTheDocs](https://readthedocs.org/dashboard/).
 5. Unit tests and doctests must cover a substantial portion of the code.
 6. Logs should be used instead of printing to stdout whenever possible.
-7. Libraries must never print anything to stdout unless explicitly stated in the documentation.
-8. For software versioning, [PEP 440](https://peps.python.org/pep-0440/) must be followed.
+7. Errors should be raised or warnings produced when something goes wrong.
+8. Libraries must never print anything to stdout unless explicitly stated in the documentation.
+9. For software versioning, [PEP 440](https://peps.python.org/pep-0440/) must be followed.
     - Prototype versions (`0.0.A`): anything goes
     - Unstable versions For `0.A.B`: `A` is incremented if the change is breaking, `B` is incremented otherwise.
     - Stable versions `A.B.C`: `A` if incremented if the change is breaking, `B` is incremented if a new feature is introduced. `C` increments must be purely for maintenance (bug-fixing, documentation).
