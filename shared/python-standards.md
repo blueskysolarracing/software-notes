@@ -8,7 +8,7 @@
 6. Logs should be used instead of printing to stdout whenever possible.
 7. Libraries must never print anything to stdout unless explicitly stated in the documentation.
 8. For software versioning, [PEP 440](https://peps.python.org/pep-0440/) must be followed.
-  1. Prototype versions (`0.0.A`): anything goes
-  2. Unstable versions For `0.A.B`: `A` is incremented if the change is breaking, `B` is incremented otherwise.
-  3. Stable versions `A.B.C`: `A` if incremented if the change is breaking, `B` is incremented if a new feature is introduced. `C` increments must be purely for maintenance (bug-fixing, documentation).
-9. Use comments sparingly! (Don't spam them)
+    - Prototype versions (`0.0.A`): anything goes
+    - Unstable versions For `0.A.B`: `A` is incremented if the change is breaking, `B` is incremented otherwise.
+    - Stable versions `A.B.C`: `A` if incremented if the change is breaking, `B` is incremented if a new feature is introduced. `C` increments must be purely for maintenance (bug-fixing, documentation).
+10. Use comments sparingly! (Don't spam them)
