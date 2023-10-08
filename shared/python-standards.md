@@ -12,3 +12,4 @@
     - Unstable versions For `0.A.B`: `A` is incremented if the change is breaking, `B` is incremented otherwise.
     - Stable versions `A.B.C`: `A` if incremented if the change is breaking, `B` is incremented if a new feature is introduced. `C` increments must be purely for maintenance (bug-fixing, documentation).
 10. Use comments sparingly! (Don't spam them)
+11. Most functions should be ~15 lines long!
